@@ -2,3 +2,4 @@
 
 ##Our first line of code does this 
 `for SRR in $(awk 'NR>1 { print $8 }' sample_info_hacat.txt)`
+hi

@@ -1,5 +1,5 @@
-#This is the first part of the code 
+# This is the first part of the code 
 
-##Our first line of code does this 
+## Our first line of code does this 
 `for SRR in $(awk 'NR>1 { print $8 }' sample_info_hacat.txt)`
 hi
